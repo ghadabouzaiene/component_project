@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Original+Surfer&display=swap');
+
+.App {
+  background-image: url('bg.jpg') ;
+  background-position: relative;
+}
+
+.my-profile {
+  border-radius: 8px;
+  margin: 50px;
+  box-shadow: 8px 10px 15px 8px  slategray;
+}
+
+.info {
+  color: antiquewhite;
+  font-size: 18px;
+  font-family:Original Surfer;
+  box-shadow: 5px 5px 5px 5px rgb(68, 67, 67);
+  max-width: 300px;
+  margin: 50px;
+  margin-left: 100px;
+  padding:20px;
+  text-align: center;
+}
+.nav {
+font-family: Original Surfer ;}
+.form {
+  float: right;
+  margin: 100px;
+  color: antiquewhite;
+  width: 500px;
+  height: 350px;
+  box-shadow: 8px 8px 10px slategray;
+  padding: 20px;
+}
+.title {
+  font-family:Original Surfer;
+  color: antiquewhite;
+  font-size: 22px;
+
+}
+
+
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
